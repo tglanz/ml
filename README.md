@@ -9,3 +9,8 @@
 
 Given the example of  
 ![](images/house-predictions-1.png)
+
+We can fit a line
+- Linearly
+- Quadratic
+- Expo, etc..

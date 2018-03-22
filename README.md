@@ -7,5 +7,5 @@
 
 [Lecture - Supervised Learning](https://www.youtube.com/watch?v=bQI5uDxrFfA)
 
-Given the example of
+Given the example of  
 ![](images/house-predictions-1.png)

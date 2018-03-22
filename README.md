@@ -5,4 +5,4 @@
 - Unsupervised
 
 [Lecture - Supervised Learning](https://www.youtube.com/watch?v=bQI5uDxrFfA)
-<img src="images/house-predictions-1.png" />
+<img src="/images/house-predictions-1.png" />
